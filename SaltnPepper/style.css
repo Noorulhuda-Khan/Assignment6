@@ -1,0 +1,84 @@
+body {
+  margin: 0px;
+  background-color: black;
+}
+
+.my-header {
+  width: 100%;
+  background-color: black;
+  height: 100px;
+  padding: 2px 50px;
+}
+
+.my-header > div > img {
+  margin-top: 15px;
+}
+
+.my-menu > li {
+  display: inline-block;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 40px;
+}
+
+.my-box-menu {
+  height: 100%;
+  vertical-align:baseline;
+  margin-left: 100px;
+  margin-bottom: 15px;
+}
+
+.my-d-inline {
+  display: inline-block;
+}
+
+.my-btn {
+  background-color: #ed1c24;
+  border-radius: 35px;
+  border: 1px solid #ed1c24;
+  color: white;
+  padding: 12px 13.5px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.cards-wrapper{
+    display: flex;
+}
+
+.card{
+    margin: 100px 50px;
+    width: calc(100%/4);
+}
+
+.my-cat{
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.card-body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.section3{
+    display: flex;
+    
+}
+
+.slider2{
+    margin: 2px 5px;
+    padding: 10px 50px;
+}
+
+.my-btn2{
+    background-color: black;
+    border-color: white;
+    margin-top: 40px;
+}
